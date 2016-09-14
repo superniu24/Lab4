@@ -1,0 +1,3 @@
+1. diff fruitsOld.txt fruitsNew.txt
+   < means old have but new dont have
+   > means new have but old dont have
