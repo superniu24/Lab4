@@ -1,6 +1,7 @@
 This is use to learn github
 <<<<<<< HEAD
 Zhaojian Li
+Gongyuan Xing
 
 This might cause a merge conflict
 1
